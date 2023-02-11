@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T15:17:47.593Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Xz-NTJcy90bp7w6Jk-Uv" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-11T15:18:08.778Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="p7k1wJmPiNu4C1KDjpZG" version="20.8.19" type="github">
   <diagram name="11th Feb" id="21u-C2O9XAdiU5nXSoGJ">
     <mxGraphModel dx="1140" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,13 +58,13 @@
         <mxCell id="AjW_iS0ov3O8r9LqMtaO-17" value="Buy food for Monday" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#D0CEE2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#1A1A1A;fillColor=#5D7F99;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="260" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AjW_iS0ov3O8r9LqMtaO-19" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#736CA8;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;curved=1;labelBackgroundColor=none;" parent="1" edge="1">
+        <mxCell id="AjW_iS0ov3O8r9LqMtaO-19" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;curved=1;labelBackgroundColor=none;fillColor=#f8cecc;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="250" as="sourcePoint" />
             <mxPoint x="30" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjW_iS0ov3O8r9LqMtaO-20" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#736CA8;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;curved=1;labelBackgroundColor=none;" parent="1" edge="1">
+        <mxCell id="AjW_iS0ov3O8r9LqMtaO-20" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;curved=1;labelBackgroundColor=none;fillColor=#f8cecc;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="240" as="sourcePoint" />
             <mxPoint x="160" y="380" as="targetPoint" />
