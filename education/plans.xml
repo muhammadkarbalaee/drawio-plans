@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T18:50:40.965Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OMeqVoHPpepsFC2vfspS" version="20.8.20" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-12T18:50:52.093Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OOdK6QnR4YqwDlt-LQHY" version="20.8.20" type="github" pages="8">
   <diagram name="overview" id="pUGE_-9ipmy8aKa7zM2w">
     <mxGraphModel dx="1368" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
             <mxPoint x="1095" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfb1uO9eN1RFiisbYFX1-7" value="Digital Image Processing" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#AF45ED;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#095C86;fillColor=#F694C1;" parent="1" vertex="1">
+        <mxCell id="nfb1uO9eN1RFiisbYFX1-7" value="Faramarzi book" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#AF45ED;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#095C86;fillColor=#F694C1;" parent="1" vertex="1">
           <mxGeometry x="430" y="345" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yj1g_23S0O_KSCFSGQIS-1" value="Stanford computer vision course" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#AF45ED;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#095C86;fillColor=#F694C1;" parent="1" vertex="1">
