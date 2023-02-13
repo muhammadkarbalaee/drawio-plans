@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T18:51:13.171Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="p4qa_c8wDHhBlfRcCVwN" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-13T18:52:57.644Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="w5ZbW4nI2cufiIYedg4l" version="20.8.20" type="github" pages="3">
   <diagram name="11th Feb" id="21u-C2O9XAdiU5nXSoGJ">
     <mxGraphModel dx="1368" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -411,7 +411,7 @@
           <mxGeometry x="70" y="150" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="JYpJQpjAW8xK62XAHmuo-7" value="learn getx mvp mvc and Core features, also learn appstore publication&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#5AA9E6;fillColor=#FFE45E;" vertex="1" parent="1">
-          <mxGeometry x="480" y="90" width="250" height="175" as="geometry" />
+          <mxGeometry x="480" y="70" width="370" height="195" as="geometry" />
         </mxCell>
         <mxCell id="JYpJQpjAW8xK62XAHmuo-9" value="Send resume on linkedin in related groups" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#5AA9E6;fillColor=#FFE45E;" vertex="1" parent="1">
           <mxGeometry x="190" y="900" width="180" height="135" as="geometry" />
