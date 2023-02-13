@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T18:55:51.395Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="csvO6Ekhdt-qcNeOsX8A" version="20.8.20" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:40:36.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1LWvvNY7WEShMSDdagaO" version="20.8.20" type="github" pages="8">
   <diagram name="overview" id="pUGE_-9ipmy8aKa7zM2w">
-    <mxGraphModel dx="1368" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,13 +67,13 @@
         <mxCell id="wSBx38rLeTkOTCk8Rwib-1" value="Delete Crypto and take numerical analysis besides sports" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;glass=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#AF45ED;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#095C86;fillColor=#F694C1;" parent="1" vertex="1">
           <mxGeometry x="130" y="940" width="820" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="rRg9Od0Yybj4InkptT3o-1" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;fillColor=#f8cecc;curved=1;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="rRg9Od0Yybj4InkptT3o-1" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;fillColor=#f8cecc;curved=1;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="920" as="sourcePoint" />
             <mxPoint x="260" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rRg9Od0Yybj4InkptT3o-2" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;fillColor=#f8cecc;curved=1;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="rRg9Od0Yybj4InkptT3o-2" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;fillColor=#f8cecc;curved=1;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="940" as="sourcePoint" />
             <mxPoint x="820" y="1170" as="targetPoint" />
@@ -96,12 +96,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_nhY_ytS34kn2cHQFgOF" name="differential equations">
-    <mxGraphModel dx="1368" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="_nhY_ytS34kn2cHQFgOF" name="image processing">
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nfb1uO9eN1RFiisbYFX1-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;Differential Equations&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#095C86;" parent="1" vertex="1">
+        <mxCell id="nfb1uO9eN1RFiisbYFX1-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;Image Processing&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#095C86;" parent="1" vertex="1">
           <mxGeometry x="278" y="10" width="545" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nfb1uO9eN1RFiisbYFX1-3" value="" style="shape=link;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#60E696;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=50;fontColor=#095C86;fillColor=#F694C1;curved=1;" parent="1" edge="1">
@@ -413,7 +413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JHBP4WuNCmUXSSWLXcMB" name="network security">
-    <mxGraphModel dx="1368" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,12 +563,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="PwnHViy7Bk0BxcY33kxe" name="networks">
-    <mxGraphModel dx="1368" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="PwnHViy7Bk0BxcY33kxe" name="bioinformatics">
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AF_c_72nhQKlGT0PdwMZ-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;Computer Networks&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#095C86;" parent="1" vertex="1">
+        <mxCell id="AF_c_72nhQKlGT0PdwMZ-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;Bioinformatics&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#095C86;" parent="1" vertex="1">
           <mxGeometry x="140" y="10" width="545" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FyrtSPyfIycpdm8zD240-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#60E696;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#095C86;fillColor=#F694C1;" parent="1" source="FyrtSPyfIycpdm8zD240-2" target="FyrtSPyfIycpdm8zD240-4" edge="1">
