@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T19:09:51.124Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="i29hMYEPfOSZ2_yqJBwR" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T19:36:02.152Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fdiPZiA0jCJ-uM0f3vWl" version="20.8.20" type="github">
   <diagram name="Page-1" id="KrXKYTac8W-rY7lMHAoE">
-    <mxGraphModel dx="4568" dy="2622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3134" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,6 +127,9 @@
         <mxCell id="tdvatxkMeqxADDE8jV56-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#050505;fillColor=#FFE45E;" parent="1" source="tdvatxkMeqxADDE8jV56-29" target="tdvatxkMeqxADDE8jV56-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VVsW9ykcUjA-kcdN8Ob2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#0A0A0A;" edge="1" parent="1" source="tdvatxkMeqxADDE8jV56-29" target="VVsW9ykcUjA-kcdN8Ob2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tdvatxkMeqxADDE8jV56-29" value="Global" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#EA6B66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="-610" y="710" width="120" height="60" as="geometry" />
         </mxCell>
@@ -210,6 +213,9 @@
         </mxCell>
         <mxCell id="tdvatxkMeqxADDE8jV56-78" value="test will update and will archive" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#EA6B66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#0F0F0F;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="-360" y="-290" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsW9ykcUjA-kcdN8Ob2-1" value="&lt;font color=&quot;#0a0a0a&quot;&gt;fixing the image loading issue on iOS&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="670" width="200" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
