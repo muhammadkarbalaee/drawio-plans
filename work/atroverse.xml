@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T19:36:45.254Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OdxBEfdUME8QKVJJ0pvb" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T21:46:26.188Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QUGbkZpP9cXB0ep4kybx" version="20.8.20" type="github">
   <diagram name="Page-1" id="KrXKYTac8W-rY7lMHAoE">
     <mxGraphModel dx="3134" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,13 @@
         <mxCell id="tdvatxkMeqxADDE8jV56-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#050505;fillColor=#FFE45E;" parent="1" source="tdvatxkMeqxADDE8jV56-29" target="tdvatxkMeqxADDE8jV56-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VVsW9ykcUjA-kcdN8Ob2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#0A0A0A;" edge="1" parent="1" source="tdvatxkMeqxADDE8jV56-29" target="VVsW9ykcUjA-kcdN8Ob2-1">
+        <mxCell id="VVsW9ykcUjA-kcdN8Ob2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#0A0A0A;" parent="1" source="tdvatxkMeqxADDE8jV56-29" target="VVsW9ykcUjA-kcdN8Ob2-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYjSWk2VVr26lVwQcoFz-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="tdvatxkMeqxADDE8jV56-29" target="nYjSWk2VVr26lVwQcoFz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYjSWk2VVr26lVwQcoFz-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="tdvatxkMeqxADDE8jV56-29" target="nYjSWk2VVr26lVwQcoFz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdvatxkMeqxADDE8jV56-29" value="Global" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#EA6B66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#FFD966;" parent="1" vertex="1">
@@ -214,8 +220,14 @@
         <mxCell id="tdvatxkMeqxADDE8jV56-78" value="test will update and will archive" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#EA6B66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#0F0F0F;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="-360" y="-290" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VVsW9ykcUjA-kcdN8Ob2-1" value="&lt;font color=&quot;#0a0a0a&quot;&gt;fixing the image loading issue on iOS&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="VVsW9ykcUjA-kcdN8Ob2-1" value="&lt;font color=&quot;#0a0a0a&quot;&gt;fixing the image loading issue on iOS&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-1240" y="670" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nYjSWk2VVr26lVwQcoFz-1" value="fixing the audio picking issue" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="870" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nYjSWk2VVr26lVwQcoFz-4" value="fix the new image picking in update posts" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="510" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
