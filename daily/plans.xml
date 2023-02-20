@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T22:32:11.387Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aR_x40PtF3iiJs8hLCL4" version="20.8.20" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-20T05:18:44.137Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uZib6shhzUB7Q6uRpODi" version="20.8.20" type="github" pages="5">
   <diagram name="11th Feb" id="21u-C2O9XAdiU5nXSoGJ">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -509,7 +509,7 @@
         <mxCell id="3EwRIkgN_J3wGhbwAbeH-1" value="things to do" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="340" y="310" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="3EwRIkgN_J3wGhbwAbeH-2" value="Install the fucking macOS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="3EwRIkgN_J3wGhbwAbeH-2" value="Install the fucking macOS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#005700;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#ffffff;fillColor=#008a00;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="150" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3EwRIkgN_J3wGhbwAbeH-3" value="numerical analysis assignments" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#005700;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#ffffff;fillColor=#008a00;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -530,7 +530,7 @@
         <mxCell id="3EwRIkgN_J3wGhbwAbeH-7" value="work" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#005700;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#ffffff;fillColor=#008a00;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="620" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3EwRIkgN_J3wGhbwAbeH-10" value="review and update all your drawios" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="3EwRIkgN_J3wGhbwAbeH-10" value="review and update all your drawios" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#005700;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#ffffff;fillColor=#008a00;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="430" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3EwRIkgN_J3wGhbwAbeH-11" value="plan for buying $$ tomorrow&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -551,7 +551,7 @@
         <mxCell id="EQYVuYPces_HMuN-GmqC-1" value="Eject your Ram" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#008a00;strokeColor=#005700;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-160" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EQYVuYPces_HMuN-GmqC-3" value="plan meeting honey and giving her the ram" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
+        <mxCell id="EQYVuYPces_HMuN-GmqC-3" value="plan meeting honey and giving her the ram" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-160" y="620" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EQYVuYPces_HMuN-GmqC-5" value="install android apps from cd" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#005700;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#ffffff;fillColor=#008a00;" parent="1" vertex="1">
