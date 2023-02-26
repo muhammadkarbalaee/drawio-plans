@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T05:18:44.137Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uZib6shhzUB7Q6uRpODi" version="20.8.20" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-26T06:04:30.290Z" agent="5.0 (Android 11)" etag="xXzB27SxiGe33khQQQb_" version="20.8.23" type="github" pages="6">
   <diagram name="11th Feb" id="21u-C2O9XAdiU5nXSoGJ">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2226" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,7 +470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DgH9r8hpHZAgusKpDR9s" name="19 Feb">
-    <mxGraphModel dx="2284" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1629" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,6 +557,14 @@
         <mxCell id="EQYVuYPces_HMuN-GmqC-5" value="install android apps from cd" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#005700;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#ffffff;fillColor=#008a00;" parent="1" vertex="1">
           <mxGeometry x="-10" y="50" width="160" height="100" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mds_P2jDK0qxtsfh_QE-" name="26 feb">
+    <mxGraphModel dx="503" dy="140" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
